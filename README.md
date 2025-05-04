@@ -1,4 +1,5 @@
 This xml code must be copied and pasted to your own Thetis database.
+Currently only HF band is modified to suit the Hermes Lite 2.
 
 Procedure:
 1) Open Thetis and export your database

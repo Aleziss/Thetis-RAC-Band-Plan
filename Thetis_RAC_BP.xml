@@ -1,0 +1,366 @@
+<BandText>
+    <Low>1.8</Low>
+    <High>1.809999</High>
+    <Name>160M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>1.81</Low>
+    <High>1.839999</High>
+    <Name>160M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>1.84</Low>
+    <High>2.0</High>
+    <Name>160M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>3.5</Low>
+    <High>3.579999</High>
+    <Name>80M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>3.58</Low>
+    <High>3.582999</High>
+    <Name>80M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>3.583</Low>
+    <High>3.588999</High>
+    <Name>80M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>3.589</Low>
+    <High>3.599999</High>
+    <Name>80M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>3.6</Low>
+    <High>3.841999</High>
+    <Name>80M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>3.842</Low>
+    <High>3.844999</High>
+    <Name>80M SSTV</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>3.845</Low>
+    <High>4.0</High>
+    <Name>80M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>5.3305</Low>
+    <High>5.3335</High>
+    <Name>60M CW/Phone/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>5.3465</Low>
+    <High>5.3495</High>
+    <Name>60M CW/Phone/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>5.3515</Low>
+    <High>5.3665</High>
+    <Name>60M CW/Phone/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>5.3715</Low>
+    <High>5.3745</High>
+    <Name>60M CW/Phone/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>5.4035</Low>
+    <High>5.4065</High>
+    <Name>60M CW/Phone/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>7.000</Low>
+    <High>7.034999</High>
+    <Name>40M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>7.035</Low>
+    <High>7.039999</High>
+    <Name>40M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>7.04</Low>
+    <High>7.069999</High>
+    <Name>40M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>7.07</Low>
+    <High>7.124999</High>
+    <Name>40M Phone/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>7.125</Low>
+    <High>7.164999</High>
+    <Name>40M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>7.165</Low>
+    <High>7.174999</High>
+    <Name>40M SSTV</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>7.175</Low>
+    <High>7.299999</High>
+    <Name>40M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>10.1</Low>
+    <High>10.129999</High>
+    <Name>30M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>10.13</Low>
+    <High>10.139999</High>
+    <Name>30M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>10.14</Low>
+    <High>10.15</High>
+    <Name>30M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>14.0</Low>
+    <High>14.069999</High>
+    <Name>20M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>14.07</Low>
+    <High>14.072999</High>
+    <Name>20M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>14.073</Low>
+    <High>14.100499</High>
+    <Name>20M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>14.1005</Low>
+    <High>14.111999</High>
+    <Name>20M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>14.112</Low>
+    <High>14.229999</High>
+    <Name>20M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>14.23</Low>
+    <High>14.235999</High>
+    <Name>20M SSTV</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>14.236</Low>
+    <High>14.350</High>
+    <Name>20M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>18.068</Low>
+    <High>18.094999</High>
+    <Name>17M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>18.095</Low>
+    <High>18.099999</High>
+    <Name>17M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>18.1</Low>
+    <High>18.109999</High>
+    <Name>17M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>18.11</Low>
+    <High>18.168</High>
+    <Name>17M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.0</Low>
+    <High>21.069999</High>
+    <Name>15M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.07</Low>
+    <High>21.079999</High>
+    <Name>15M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.08</Low>
+    <High>21.082999</High>
+    <Name>15M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+    <BandText>
+    <Low>21.083</Low>
+    <High>21.082999</High>
+    <Name>15M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.09</Low>
+    <High>21.124999</High>
+    <Name>15M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.125</Low>
+    <High>21.149999</High>
+    <Name>15M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.15</Low>
+    <High>21.339999</High>
+    <Name>15M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.34</Low>
+    <High>21.342999</High>
+    <Name>15M SSTV</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>21.343</Low>
+    <High>21.45</High>
+    <Name>15M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>24.89</Low>
+    <High>24.919999</High>
+    <Name>12M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>24.92</Low>
+    <High>24.924999</High>
+    <Name>12M Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>24.925</Low>
+    <High>24.939999</High>
+    <Name>12M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>24.94</Low>
+    <High>24.974999</High>
+    <Name>12M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>24.975</Low>
+    <High>24.977999</High>
+    <Name>12M SSTV</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>24.978</Low>
+    <High>24.99</High>
+    <Name>12M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.0</Low>
+    <High>28.069999</High>
+    <Name>10M CW</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.07</Low>
+    <High>28.189499</High>
+    <Name>10M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.1895</Low>
+    <High>28.200499</High>
+    <Name>10M Beacons</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.2005</Low>
+    <High>28.299999</High>
+    <Name>10M CW/Beacons</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.3</Low>
+    <High>28.319999</High>
+    <Name>10M CW/Digital</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.32</Low>
+    <High>28.679999</High>
+    <Name>10M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.68</Low>
+    <High>28.682999</High>
+    <Name>10M SSTV</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>28.683</Low>
+    <High>29.299999</High>
+    <Name>10M Phone</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>29.3</Low>
+    <High>29.519999</High>
+    <Name>10M Satellite</Name>
+    <TX>true</TX>
+  </BandText>
+  <BandText>
+    <Low>29.52</Low>
+    <High>29.7</High>
+    <Name>10M FM</Name>
+    <TX>true</TX>
+  </BandText>

@@ -1,5 +1,5 @@
 This xml code must be copied and pasted to your own Thetis database.
-Currently only HF band plan is modified to suit the Hermes Lite 2.
+Currently only HF band plan is modified to suit the Hermes Lite 2 but should also work with Apache Labs products.
 
 Procedure:
 1) Open Thetis and export your database

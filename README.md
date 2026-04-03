@@ -1,12 +1,12 @@
 This xml code must be copied and pasted to your own Thetis database.
-Currently only HF band is modified to suit the Hermes Lite 2.
+Currently only HF band plan is modified to suit the Hermes Lite 2.
 
 Procedure:
 1) Open Thetis and export your database
 2) Open the exported database in a text editor.
-3) Find <BandText> in text editor
+3) Find `<BandText>` in text editor
 4) Select all text between 1.8MHz and 29.700MHz.
-6) Paste my edited RAC band plan text to replace the original text.
+6) Paste my edited RAC band plan text to REPLACE the original text.
 7) Save database from text editor
 8) Import edited database in Thetis
 

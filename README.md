@@ -1,4 +1,4 @@
-This xml code must be copied and pasted to your own Thetis database.
+This xml code must be copied and pasted to your own Thetis database. It has been tested with [Thetis 2.10.3.12-HL2 by MI0BOT](https://github.com/mi0bot).
 Currently only HF band plan is modified to suit the Hermes Lite 2 but should also work with Apache Labs products.
 
 Procedure:
